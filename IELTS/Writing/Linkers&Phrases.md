@@ -34,6 +34,18 @@
 - `like ...`
 - `... among others`
 
+## Adding more points
+
+- `What is more, ...`   
+- `In addition, ...` ~ `In addition to Noun / V-ing, ...`
+- `Furthermore, ...`
+- `Moreover, ...`
+- `Besides, ...` ~ `Besides + Noun / V-ing, ...`
+- `On top of that, ...`
+- `Not only ... but also ...`
+- `As well`
+- `... too`
+- `...also`
 
 ## Refferennce
 https://www.pinterest.com/pin/351421577160917898/
