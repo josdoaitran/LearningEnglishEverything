@@ -28,7 +28,7 @@
 - `With respect to + Noun / V-ing, ...`
 - `Regarding to Noun / V-ing, ...`
 - `As far as + Noun / V-ing is concerned`
-- `For instance, ...'
+- `For instance, ...`
 - `For exampe, ...`
 
 
