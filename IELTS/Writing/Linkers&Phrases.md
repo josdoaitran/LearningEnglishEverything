@@ -24,9 +24,10 @@
 
 ## Reffering and giving examples
 
-`When it comes to + Noun / V-ing, ...` | `With respect to + Noun / V-ing`
-`Regarding to Noun / V-ing, ...`
-`As far as + Noun / V-ing is concerned`
+- `When it comes to + Noun / V-ing, ...` 
+- `With respect to + Noun / V-ing, ...`
+- `Regarding to Noun / V-ing, ...`
+- `As far as + Noun / V-ing is concerned`
 
 ## Refferennce
 https://www.pinterest.com/pin/351421577160917898/
