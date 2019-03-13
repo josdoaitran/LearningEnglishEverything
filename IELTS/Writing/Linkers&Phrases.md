@@ -30,6 +30,9 @@
 - `As far as + Noun / V-ing is concerned`
 - `For instance, ...`
 - `For exampe, ...`
+- `Such as ...`
+- `like ...`
+- `... among others`
 
 
 ## Refferennce
