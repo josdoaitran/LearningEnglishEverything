@@ -73,6 +73,17 @@
 - `Meanwhile, ...`
 - `while ...`
 
+## Expressing effect and reason
+
+- `So, ...`
+- `Therefore, ...`
+- `Consequently, ...`
+- `As a consequence, ... `
+- `As a result, ...`
+- `For that reason, ...`
+- `Due to + Noun / V-ing, ...`
+- `Owing to + Noun / V-ing, ...`
+- `On account of +  Noun / V-ing`
 
 ## Refferennce
 https://www.pinterest.com/pin/351421577160917898/
