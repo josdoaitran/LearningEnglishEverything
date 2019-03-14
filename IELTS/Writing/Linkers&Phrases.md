@@ -85,7 +85,24 @@
 - `Owing to + Noun / V-ing, ...`
 - `On account of +  Noun / V-ing`
 - `Because of + Noun / V-ing`
-- `Due to / Owwing to / On account / Because off the fact that + subject + verrb, ...
+- `Due to / Owwing to / On account / Because off the fact that + subject + verrb, ...`
+
+## Clarifying or repharing
+- `In order words, ...`
+- `To out it another wat, ...`
+- `To put simply, ...`
+- `..., that is no say`
+
+## Concluding
+- `All in all, ...`
+- `All things concerned, ...`
+- `Taking everything into account, ...`
+- `Considering all of the above, ...`
+- `In conclusion, ...`
+- `To sum up, ...`
+- `In summary, ...`
+- `On the whole, ...`
+- `BY and large`
 
 ## Refferennce
 https://www.pinterest.com/pin/351421577160917898/
