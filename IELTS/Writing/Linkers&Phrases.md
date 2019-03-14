@@ -59,6 +59,20 @@
 
 - `Although/Even though / Though + Subject + verb, ...`
 - `Despite / In spite of that fact that + subject + verb, ...`
+- `Despite / In spite of noun / V-ing`
+- `However, ...`
+- `Nevertheless, ...`
+- `Nonetheless, ...`
+- `Even so, ...`
+- `but 
+- `Even so, ...`
+- `But ...`
+- `yet ....`
+- `On the one hand, ...`
+- `on the contrary, ...`
+- `Meanwhile, ...`
+- `while ...`
+
 
 ## Refferennce
 https://www.pinterest.com/pin/351421577160917898/
