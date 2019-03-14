@@ -47,5 +47,13 @@
 - `... too`
 - `...also`
 
+## Adding Emphasis
+
+`It goes without saying that ....`
+`Needless to say, ...`
+`Clearly, ...`
+'Obviosly, ...`
+`There is little doubt that ....`
+
 ## Refferennce
 https://www.pinterest.com/pin/351421577160917898/
