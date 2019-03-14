@@ -84,6 +84,8 @@
 - `Due to + Noun / V-ing, ...`
 - `Owing to + Noun / V-ing, ...`
 - `On account of +  Noun / V-ing`
+- `Because of + Noun / V-ing`
+- `Due to / Owwing to / On account / Because off the fact that + subject + verrb, ...
 
 ## Refferennce
 https://www.pinterest.com/pin/351421577160917898/
