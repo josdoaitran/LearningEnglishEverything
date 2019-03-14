@@ -52,8 +52,13 @@
 `It goes without saying that ....`
 `Needless to say, ...`
 `Clearly, ...`
-'Obviosly, ...`
+`Obviosly, ...`
 `There is little doubt that ....`
+
+## Constrasting points
+
+- `Although/Even though / Though + Subject + verb, ...`
+- `Despite / In spite of that fact that + subject + verb, ...`
 
 ## Refferennce
 https://www.pinterest.com/pin/351421577160917898/
