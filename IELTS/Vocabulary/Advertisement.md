@@ -1,8 +1,10 @@
-`Adverstising` / `Adverstisement` is a common topic in both IELTS speaking and writting tasks 2.
+`Advertising` / `Advertisement` is a common topic in both IELTS speaking and writting tasks 2.
 
 ## Form of the word:
 - ad (n)
 - advert (n)
-- advertise (vb)
+- advertise (Verb)
 - advertising (v-ing)
-- adverstisement (n) (There are two difference pronunciation - UK and USA)
+- advertisement (n) (There are two difference pronunciation - UK and USA)
+
+### Main types of advertisement
