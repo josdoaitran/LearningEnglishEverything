@@ -9,6 +9,7 @@
 
 ### Main types of advertisement
 + `TV commercial`: Promotions of products and services using colour, action, sound and sight. These are memorable and accessible to a large market.
-+ `News paper ad`: 
-+ Magazine ad
-+ BillBoards
++ `News paper ad`: These adverts can either be national or local.
+They are placed in particular sections in the newspaper.
++ `Magazine ad`
++ `BillBoards`
