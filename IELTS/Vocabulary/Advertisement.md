@@ -11,5 +11,5 @@
 + `TV commercial`: Promotions of products and services using colour, action, sound and sight. These are memorable and accessible to a large market.
 + `News paper ad`: These adverts can either be national or local.
 They are placed in particular sections in the newspaper.
-+ `Magazine ad`
-+ `BillBoards`
++ `Magazine ad`: These are aimed at the specific market and interest group. The ads are colourful and eye-catching but can be more expensive than NewsPaper ads.
++ `BillBoards`: These are often signs on the road or at sports stadiums. Large billboard can be attractive and informative but also costly.
