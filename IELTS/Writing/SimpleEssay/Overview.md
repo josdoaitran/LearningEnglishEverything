@@ -8,4 +8,12 @@
 ** Answered the question
 ** Information
 ** Relevant
-** accurate and correct.
+** accurate and correct
+** overview
+** significant trends or information
+
+## Coherence and cohesion
+- `Coherence`:
+* Flow
+* logically organised
+* appropriately
