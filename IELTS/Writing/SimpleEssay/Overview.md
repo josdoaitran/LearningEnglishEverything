@@ -17,3 +17,14 @@
 * Flow
 * logically organised
 * appropriately sequenced into paragraphs
+- `cohesion`
+* linkings words
+* the relationship between paragraphs, sentences or parts of sentences
+
+## Lexical resource
+* range of vocabulary
+* how accurate and appropriate
+
+## Grammatical range and Accuracy
+* range of grammar structures
+* accurate
