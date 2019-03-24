@@ -2,4 +2,7 @@
 
 `clay`: type of sticky earth that is used for making bricks, pots, etc
 
-**Vocabulary:
+**Vocabulary:**
+
+**Sample response**
+Bricks are small shaped figures which are used for building.
