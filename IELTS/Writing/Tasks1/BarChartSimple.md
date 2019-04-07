@@ -3,7 +3,7 @@ The chart gives information about the most common sports played in New Zealand i
 
 🍀 ️🍀 ️🍀 
 
-The bar chart compares the proportion of boys and **=> to** girls who participated in various sports in New Zealand in the year 2002.
+The bar chart compares the proportion of boys _and_ **(=> to)** girls who participated in various sports in New Zealand in the year 2002.
 
 Overall, it is apparent that there were significant differences in the percentage of boys and girls who took part in most of these sports, whereas basketball and tennis experienced a similar figure in both genders. 
 
