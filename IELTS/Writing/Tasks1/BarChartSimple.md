@@ -1,3 +1,4 @@
+![](https://github.com/josdoaitran/LearningEnglishEverything/blob/master/IELTS/Writing/Tasks1/IMG_0022.JPG)
 The chart gives information about the most common sports played in New Zealand in 2002. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.
 
 🍀 ️🍀 ️🍀 
