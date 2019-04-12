@@ -1,8 +1,6 @@
 # 4 Parts:
 
-## Listening 
-## Writting
+## Listening
+## Writing
 ## Reading
 ## Speaking
-
-
