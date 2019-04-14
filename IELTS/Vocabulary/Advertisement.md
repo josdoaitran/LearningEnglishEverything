@@ -15,7 +15,7 @@ They are placed in particular sections in the newspaper.
 + `BillBoards`: These are often signs on the road or at sports stadiums. Large billboard can be attractive and informative but also costly.
 
 ### other types of advertisements
-+ `Direct Mail`
++ `Direct Mail`: Letters and adverts are sent directly to customers. This is the direct approach with a select audiences. 
 + `Radio Advertising`
 + `Text Messages`
 + `Internet Pop-ups`
