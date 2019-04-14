@@ -20,3 +20,6 @@ When it comes to the figure for boys, the sports with the highest participation 
 ** the number, amount, or level of one thing when compared to another
 + `significant` ~ big; important; large
 + `whereas` ~ while
++ `respectively` => respective (Adj) ~ suitable
++ `Meanwhile` ~ then
++ `the most striking feature`
