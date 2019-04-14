@@ -20,4 +20,4 @@ They are placed in particular sections in the newspaper.
 + `Text Messages`: These promotions reach a target audience in real-time but they have a limited number of characters in the text
 + `Internet Pop-ups`: They can impact a viewer and allow the easy access to the product. However, they can be annoying, intrusive and even crash the system. There are a lot of audiences using Ad-blocked application to prevent it.  
 + `Email advertising`: Direct Adverting to customer. It's cost effective as long as the customer database is up to date.
-+ `Flyers`
++ `Flyers`: Small flyers with printed information handed out to customers face to face. They can be attractive and informative but also costly.
