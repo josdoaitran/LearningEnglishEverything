@@ -17,7 +17,7 @@ They are placed in particular sections in the newspaper.
 ### other types of advertisements
 + `Direct Mail`: Letters and adverts are sent directly to customers. This is the direct approach with a select audiences.
 + `Radio Advertising`: This approach reaches a target audience and relies on them listening to a particular station. However, the Message can easily be forgotten.
-+ `Text Messages`
-+ `Internet Pop-ups`
++ `Text Messages`: These promotions reach a target audience in real-time but they have a limited number of characters in the text
++ `Internet Pop-ups`: They can impact a viewer and allow the easy access to the product. However, they can be annoying, intrusive and even crash the system. There are a lot of audiences using Ad-blocked application to prevent it.  
 + `Email advertising`
 + `Flyers`
