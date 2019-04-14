@@ -13,3 +13,11 @@
 They are placed in particular sections in the newspaper.
 + `Magazine ad`: These are aimed at the specific market and interest group. The ads are colourful and eye-catching but can be more expensive than NewsPaper ads.
 + `BillBoards`: These are often signs on the road or at sports stadiums. Large billboard can be attractive and informative but also costly.
+
+### other types of advertisements
++ `Direct Mail`
++ `Radio Advertising`
++ `Text Messages`
++ `Internet Pop-ups`
++ `Email advertising`
++ `Flyers`
