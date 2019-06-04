@@ -6,5 +6,8 @@ Questions:
   + Do you work or study ?
   + What is your major ?
 - Do you like plants ? why ?
-  + What plants do you like ?
+  + What plants do you like ? Why
+  (Flower, Cactus, 
+  + Have you ever grown any plant ?
+  
 
