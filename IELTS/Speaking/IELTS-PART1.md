@@ -16,3 +16,6 @@ Questions:
   + Do you ever draw or paint pictures now ?
   
 - Do you like cooking ?
+  + How often do you cook ?
+  + How good are you at cooking ?
+  + Does anyone in your family like to cook ?
