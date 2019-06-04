@@ -8,6 +8,7 @@ Questions:
 - Do you like plants ? why ?
   + What plants do you like ? Why
   (Flower, Cactus, 
-  + Have you ever grown any plant ?
-  
-
+  + Have you ever grown any plants ?
+  + Did you grown any plants when you were a child ?
+- Do you like drawing or paiting ?
+  +
