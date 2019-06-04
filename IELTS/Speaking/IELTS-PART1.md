@@ -11,4 +11,8 @@ Questions:
   + Have you ever grown any plants ?
   + Did you grown any plants when you were a child ?
 - Do you like drawing or paiting ?
-  +
+  + What kind of things do you like to draw ?
+  + Did you enjoy doing art lesson when you were a child ?
+  + Do you ever draw or paint pictures now ?
+  
+- Do you like cooking ?
